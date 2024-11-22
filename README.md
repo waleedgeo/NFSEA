@@ -1,14 +1,14 @@
 
-# An Automated Geo-AI based Flood Mapping, Susceptibility and Exposure (FMSE) Analysis Tool Implemented in Google Earth Engine
+# Near real-time flood mapping, susceptibility estimation and exposure analysis (NFSEA) framework: Leveraging cloud-computing and remote sensing for geo-AI-assisted flood risk management   
 
 ![FMSE Working](data/images/fmse_app_ss.png)
 
-## The paper is currently uder review. The code will be made available upon acceptance of the paper.
+## The paper is currently under review. The data related to this paper will be made available soon.
 
-If you are interested in this work, please contact me at:
+If you are interested in this work, please reach me through:
 
-- Email: [waleedgeo at outlook dot com](mailto:waleedgeo@outlook.com)
+- [Email](mailto:waleedgeo@outlook.com)
 
-- LinkedIn: [Mirza Waleed](https://www.linkedin.com/in/waleedgeo)
+- [LinkedIn](https://www.linkedin.com/in/waleedgeo)
 
-- Portfolio: [Waleedgeo.com](https://waleedgeo.com)
+- [My Portfolio](https://waleedgeo.com)
